@@ -1,0 +1,5 @@
+{
+  "name": "circleCi-rails",
+  "private": true,
+  "dependencies": {}
+}
